@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>🫀 Cardiovascular Disease Risk Prediction Using Machine Learning</h3>
-  <p>Built for the <strong>Byte 2 Beat Hackathon</strong> by Hack4Health</p>
+  <p>Built for the <strong>Byte 2 Beat Hackathon</strong> by Devhoda</p>
 </div>
 
 ---
@@ -60,7 +60,7 @@ This project demonstrates the practical application of machine learning in healt
 
 ## 🚀 Demo
 
-**Live Demo**: [Add your deployment URL here]
+**Live Demo**: [Here](https://cardioguard.vercel.app)
 
 ### Sample Inputs
 Test the application with these example patients:
@@ -266,38 +266,6 @@ No environment variables required - API endpoint is public.
 
 ---
 
-## 🎓 Hackathon Submission
-
-### Byte 2 Beat Hackathon Requirements
-
-✅ **Judging Criteria Coverage:**
-
-1. **Creativity** (25%)
-   - Unique risk gauge visualization
-   - Interactive drawer UI pattern
-   - Educational tooltips system
-
-2. **Practicality** (25%)
-   - Real-world medical application
-   - User-friendly interface
-   - Clear actionable insights
-   - Mobile responsive
-
-3. **Presentation** (25%)
-   - Professional design
-   - Comprehensive About section
-   - SHAP interpretability visualizations
-   - Clear documentation
-
-4. **Technical Complexity** (25%)
-   - Full-stack integration
-   - TypeScript with strict typing
-   - Advanced form validation
-   - Custom SVG visualizations
-   - Real-time API communication
-
----
-
 ## 📊 Key Components Explained
 
 ### 1. CvdForm Component
@@ -359,13 +327,13 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-Built for the Byte 2 Beat Hackathon by Hack4Health
+Built for the Byte 2 Beat Hackathon by Devhoda
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **Hack4Health** for organizing the Byte 2 Beat Hackathon
+- **Devhoda** for organizing the Byte 2 Beat Hackathon
 - **Dataset providers** for the cardiovascular disease data
 - **Open source community** for the amazing tools and libraries
 
